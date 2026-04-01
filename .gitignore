@@ -1,0 +1,20 @@
+# Local Environment
+.venv/
+venv/
+env/
+
+# Editor Settings
+.vscode/
+.idea/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Development/Training Scripts (Optional - keeps the repo focused on the App)
+train.py
+test_load.py
+
+# System Files
+.DS_Store
+Thumbs.db
